@@ -1,9 +1,16 @@
 Pong project
 
-Created by Cherif Sameh 900221726,saeed,mohamed
+Created by Cherif Sameh 900221726,
+Saeed Mohamed 900221990,
+Mohamed Salama
+
 Description
 
+The first milestone provides a functional code that displays different colours on the VGA display using
+three switches on the FPGA. These switches represent the binary combinations based on which each colour is chosen to display.
 
 Contact
 
-For any questions or support, reach out to Cherif Sameh at cherif.sameh.mikhail@gmail.com
+For any questions or support, reach out to 
+Cherif Sameh at cherif.sameh.mikhail@gmail.com
+Saeed Mohamed at dsaeed@aucegypt.edu
