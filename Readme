@@ -9,6 +9,11 @@ Description
 The first milestone provides a functional code that displays different colours on the VGA display using
 three switches on the FPGA. These switches represent the binary combinations based on which each colour is chosen to display.
 
+The second milestone presents a full Ping Pong game with two padels on each side. The game starts by the ball heading to either direction randomly.
+Once the ball touches the pad, a small buzzer sound is incremented as a feature. 
+When one player is not able to catch the ball, they are forced to defend the ball during the following round, and the other player wins a point. 
+Match point is 14, so be cautious to not let your opponent reach it before you do.
+
 Contact
 
 For any questions or support, reach out to 
